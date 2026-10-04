@@ -38,7 +38,7 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - Apartments
 - Rentals
 - Listings
@@ -50,6 +50,7 @@ tags_raw:
 - Rentals
 - Listings
 - PropTech
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
